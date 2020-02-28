@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Simon Perrault's website"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-# Simon Perrault's website
 
 I am currently an **Assistant Professor at SUTD** (Singapore) since January 2019. Before that, I was also a visiting professor at **KAIST** (Korea) in 2018 and an Assistant Professor at **Yale-NUS college** (Singapore) between 2015 and 2018.
 

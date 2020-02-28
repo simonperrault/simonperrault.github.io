@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# Simon Perrault's website
+
 I am currently an **Assistant Professor at SUTD** (Singapore) since January 2019. Before that, I was also a visiting professor at **KAIST** (Korea) in 2018 and an Assistant Professor at **Yale-NUS college** (Singapore) between 2015 and 2018.
 
 I received my PhD in Computer Science from **Telecom ParisTech (France)** in April 2013, and joined the National University of Singapore (NUS) in December 2013 as a post-doctoral researcher.

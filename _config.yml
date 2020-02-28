@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Simon Perrault"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "HCI Researcher focusing on wearable computing and online discussion"
   location         : "Singapore"
   employer         : "https://istd.sutd.edu.sg/"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :

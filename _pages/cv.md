@@ -24,7 +24,7 @@ Work experience
 * July - December 2018: Visiting Professor
   * Korean Advanced Institute of Science and Technology (KAIST), Korea
 
-* July 2015 - December 2019: Assistant Professor
+* July 2015 - December 2018: Assistant Professor
   * Yale-NUS College, Singapore
 
 * December 2013 - June 2015: Postdoctoral Researcher
@@ -53,4 +53,4 @@ Service and leadership
 ======
 * General Chair for the International Conference on Human-Computer Interaction with Mobile Devices and Services (Mobile HCI), 2020.
 * Associate Chair (Papers) for ACM Conference on Human Factors in Computing Systems (CHI) 2016, 2019-2020.
-* See full [CV](https://simonperrault.github.io/files/CV.pdf) 
+* See full [CV](https://simonperrault.github.io/files/CV.pdf)

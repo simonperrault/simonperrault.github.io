@@ -13,4 +13,4 @@ Participants came from Indonesia, Malaysia, Singapore, Thailand, the Philippines
 
 During the event, we shared insights on how to do HCI research and how to write papers. It was a great opportunity for everyone to meet new friends and share about their research interests.
 
-![ACM SIGCHI SEA Summer School 2019](images/sea.jpg)
+<img src="/images/sea.jpg">

@@ -3,10 +3,6 @@ title: "List of Publications"
 collection: publications
 permalink: /publication/publications-list
 excerpt: 'List of papers'
-date: 2009-10-01
-venue: ''
-paperurl: ''
-citation: ''
 ---
 Please find a list of my publications.
 

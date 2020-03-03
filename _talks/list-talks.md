@@ -13,8 +13,8 @@ In the last few years, I gave talks across different countries, including Singap
 - January 2020: "Human vs. Computer Systems: Challenges in HCI Research". Research Presentation, King Mongkut's University Of Technology North Bangkok, Thailand.
 - December 2018: "Online Deliberation and Other Wearable Tales". Research Presentation, Korean Advanced Institute of Science and Technology (KAIST), South Korea.
 - April 2018: "Investigating haptic feedback for wearable devices". Research Presentation, University of Glasgow, United Kingdom.
-- March 2018: "Towards ’Ecological Validity’ for Interaction with Wearable Computers". Research Presentation, Polytechnic University of Hong Kong, Hong Kong SAR.
-- March 2018: "Towards ’Ecological’ Validity for Interaction with Wearable Computers". Research Presentation, University of Melbourne, Australia.
+- March 2018: "Towards 'Ecological Validity' for Interaction with Wearable Computers". Research Presentation, Polytechnic University of Hong Kong, Hong Kong SAR.
+- March 2018: "Towards 'Ecological' Validity for Interaction with Wearable Computers". Research Presentation, University of Melbourne, Australia.
 - December 2017: "Interaction with wearable computers: Challenges and perspectives". Invited Talk, City University of Hong Kong, Hong Kong.
 - October 2017: "Designing Interaction with Wearable Computers". Guest Lecture at Singapore University of Social Sciences (SUSS), Singapore.
 - September 2017: "Wearable and Mobile Computing in Asia, for the World", Invited Talk, Mumbai, India.

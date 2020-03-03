@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.Sc in Computer Science, Université de Lille 1 (France), 2006
 * M.Sc in Computer Science, Université de Lille 1 (France), 2008
 * Ph.D in Computer Science, Télécom ParisTech (France), 2013
 
-Work experience
-======
+## Work experience
 * Since January 2019: Assistant Professor
   * Information Systems Technology and Design (ISTD)
   * Singapore University of Technology and Design
@@ -31,26 +29,22 @@ Work experience
   * National University of Singapore (NUS), Singapore
   * Supervisor: Prof. ZHAO Shengdong
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
-======
+## Service and leadership
 * General Chair for the International Conference on Human-Computer Interaction with Mobile Devices and Services (Mobile HCI), 2020.
 * Associate Chair (Papers) for ACM Conference on Human Factors in Computing Systems (CHI) 2016, 2019-2020.
 * See full [CV](https://simonperrault.github.io/files/CV.pdf)

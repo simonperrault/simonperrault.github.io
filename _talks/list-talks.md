@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/list-talks
 venue: ""
-date: 2012-06
+date: 2012-06-01
 location: "Worldwide"
 ---
 

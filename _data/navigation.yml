@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publications & Projects"
     url: /publications/
 
   - title: "Teaching"
@@ -8,8 +8,8 @@ main:
 
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "Talks"
+
+  - title: "Talks & Events"
     url: /talks/
 
   - title: "CV"

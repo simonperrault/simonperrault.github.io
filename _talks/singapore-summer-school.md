@@ -4,7 +4,7 @@ collection: talks
 type: "Summer School"
 permalink: /talks/singapore-summer-school
 venue: "SUTD"
-date: 2014-03-01
+date: 2019-11
 location: "Singapore"
 ---
 

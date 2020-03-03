@@ -3,9 +3,9 @@ title: "List of Invited Talks"
 collection: talks
 type: "Talk"
 permalink: /talks/list-talks
-venue: "Worldwide"
+venue: ""
 date: 2012-06-01
-location: "San Francisco, California"
+location: "Worldwide"
 ---
 
 In the last few years, I gave talks across different countries, including Singapore, Indonesia, China, Hong Kong, South Korea, Thailand, France and the United Kingdom. My complete list of invited talk (or guest lectures) can be found below:

@@ -3,7 +3,7 @@ title: "ACM SIGCHI SEA Summer School 2019"
 collection: talks
 type: "Summer School"
 permalink: /talks/singapore-summer-school
-venue: "Testing Institute of America 2014 Annual Conference"
+venue: "SUTD"
 date: 2014-03-01
 location: "Singapore"
 ---

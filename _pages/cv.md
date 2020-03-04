@@ -50,4 +50,4 @@ redirect_from:
 * See full [CV](https://simonperrault.github.io/files/CV.pdf)
 
 ## Reviewing
-I reviewed for all major venues in HCI including: CHI, UIST, CSCW, Mobile HCI, ISS/ITS...
+I reviewed for all major venues in HCI including: CHI, UIST, CSCW, Mobile HCI, ISS/ITS.

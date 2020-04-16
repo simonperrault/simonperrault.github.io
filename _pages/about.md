@@ -18,4 +18,4 @@ By doing so, I aim to make users' lives easier and enhance the quality of commun
 
 In more recent years, I also developed an interest in online discussion, and how people can exchange ideas online to voice their concerns and opinions to policy makers, or to other people.
 
-I am currently the co-director of [SHUAI Lab](https://shuailab.wordpress.org) at SUTD.
+I am currently the co-director of [SHUAI Lab](https://shuailab.wordpress.com) at SUTD.

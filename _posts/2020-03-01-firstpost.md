@@ -1,7 +1,7 @@
 ---
 title: 'First Blog Post'
 date: 2020-03-01
-permalink: /posts/2020/03/first-post/
+permalink: /posts/2020/03/firstpost/
 tags:
   - first post
 

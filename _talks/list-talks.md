@@ -11,6 +11,7 @@ location: "Worldwide"
 In the last few years, I gave talks across different countries, including Singapore, Indonesia, China, Hong Kong, South Korea, Thailand, France and the United Kingdom. My complete list of invited talk (or guest lectures) can be found below:
 
 - January 2020: "Human vs. Computer Systems: Challenges in HCI Research". Research Presentation, King Mongkut's University Of Technology North Bangkok, Thailand.
+- May 2019: "Interaction Design for Mobile & Wearable Computing". Research Presentation, Zhejiang University of Technology, China.
 - December 2018: "Online Deliberation and Other Wearable Tales". Research Presentation, Korean Advanced Institute of Science and Technology (KAIST), South Korea.
 - April 2018: "Investigating haptic feedback for wearable devices". Research Presentation, University of Glasgow, United Kingdom.
 - March 2018: "Towards 'Ecological Validity' for Interaction with Wearable Computers". Research Presentation, Polytechnic University of Hong Kong, Hong Kong SAR.

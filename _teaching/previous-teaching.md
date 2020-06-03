@@ -10,6 +10,12 @@ location: "France, Singapore"
 
 I have been teaching since 2010, right after I started my PhD, first as a Teaching Assistant, then as a full time Teacher.
 
+## Teaching in SUTD
+Since I joined SUTD, I taught the following courses:
+- 10.009 - The Digital World (introduction to computing and programming in Python). 12 credits course. 2019-2020.
+- 50.003 - Elements of Software Construction (software engineering and concurrency). 12 credits course. 2020.
+- Capstone (final year project with companies). 24 credits course on 2 terms. 2019.
+
 ## Teaching in Yale-NUS College
 As an Assistant Professor at Yale-NUS, I taught and was responsible for the following modules.
 I designed each module from scratch, myself:

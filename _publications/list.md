@@ -2,6 +2,7 @@
 title: "List of Publications"
 collection: publications
 permalink: /publication/publications-list
+date: 2020-01-01
 excerpt: 'List of papers'
 ---
 Please find a list of my publications.
@@ -25,12 +26,13 @@ Please find a list of my publications.
 - Yves Guiard, Halla B. Olafsdottir, and **Simon T. Perrault**. 2011. Fitt's law as an explicit time/error trade-off. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 1619-1628. [Paper](http://doi.acm.org/10.1145/1978942.1979179)
 
 ## Journal Articles
-- Christopher Asplund, Takashi Obana, Parag Bhatnagar, Xun Quan Koh, **Simon Perrault**. 2020. It's All in the Timing: Principles of Transient Distraction Illustrated with Vibrotactile Tasks. To appear in ACM Transactions on Computer-Human Interaction, 23 pages. IF=2.227.
+- Christopher Asplund, Takashi Obana, Parag Bhatnagar, Xun Quan Koh, **Simon Perrault**. 2020. It's All in the Timing: Principles of Transient Distraction Illustrated with Vibrotactile Tasks. In ACM Transactions on Computer-Human Interaction (ToCHI), Vol 27, Issue 3, 29 pages. IF=2.227. [arXiv](https://arxiv.org/pdf/2003.09100.pdf) [ACM DL](https://dl.acm.org/doi/abs/10.1145/3386358)
 - Zhu Kening, **Simon Perrault**, Taizhou Chen, Shaoyu Cai, Roshan L Peiris. 2019. A Sense of Ice and Fire: Exploring Thermal Feedback with Multiple Thermoelectric-cooling Elements on a Smart Ring. In International Journal of Human-Computer Studies, Volume 130, July 2019, 14 pages. IF=2.006. [Paper](https://doi.org/10.1016/j.ijhcs.2019.07.003)
 
 ## Other Refereed International Conference Papers
-- Lancelot Dupont, Christophe Jouffrais, **Simon T. Perrault**. 2020. Vibrotactile Feedback for Vertical 2D Space Exploration. To appear in Proceedings of the 2020 International Conference on Advanced Visual Interfaces (AVI ’20). ACM New York, NY, USA. 5 pages. [Paper](https://arxiv.org/abs/2003)
-- Atima Tharatipyakul, Kenny Choo, **Simon T. Perrault**. 2020. Pose Estimation for Facilitating Movement Learning from Online Videos. To appear in Proceedings of the 2020 International Conference on Advanced Visual Interfaces (AVI ’20). ACM New York, NY, USA. 5 pages. [Paper](https://arxiv.org/abs/2004.03209)
+- Katherine Fennedy, Sylvain Malacria, Hyowon Lee, **Simon T. Perrault. 2020**. Investigating Performance and Usage of Input Methods for Soft Keyboard Hotkeys. To appear in Proceedings of the International Conference on Human-Computer Interaction with Mobile Devices and Services (Mobile HCI ’20). ACM, New York, NY, USA, 19 pages. [arXiv](https://arxiv.org/abs/2005.13950)
+- Lancelot Dupont, Christophe Jouffrais, **Simon T. Perrault**. 2020. Vibrotactile Feedback for Vertical 2D Space Exploration. To appear in Proceedings of the 2020 International Conference on Advanced Visual Interfaces (AVI ’20). ACM New York, NY, USA. 5 pages. [arXiv](https://arxiv.org/abs/2003)
+- Atima Tharatipyakul, Kenny Choo, **Simon T. Perrault**. 2020. Pose Estimation for Facilitating Movement Learning from Online Videos. To appear in Proceedings of the 2020 International Conference on Advanced Visual Interfaces (AVI ’20). ACM New York, NY, USA. 5 pages. [arXiv](https://arxiv.org/abs/2004.03209)
 - Quentin Roy, Camellia Zakaria, **Simon T. Perrault**, Mathieu Nancel, Wonjung Kim, Archan Misra, Andy Cockburn. 2019. A Comparative Study of Pointing Techniques for Eyewear Using a Simulated Pedestrian Environment. In Proceedings of the 17th IFIP TC.13 International Conference on Human-Computer Interaction (INTERACT 2019). Springer-Verlag, Berline, Heidelberg, 22 pages. [Paper](https://doi.org/10.1007/978-3-030-29387-1_36)
 - Sandra Bardot, Marcos Serrano, **Simon T. Perrault**, Shengdong Zhao, and Christophe Jouffrais. 2019. Investigating Feedback for Two-Handed Exploration of Digital Maps without Vision. In Proceedings of the 17th IFIP TC.13 International Conference on Human-Computer Interaction (INTERACT 2019). Springer-Verlag, Berline, Heidelberg, 20 pages. [Paper](https://doi.org/10.1007/978-3-030-29381-9_19)
 - Weiyu Zhang, **Simon Perrault**, and Sanju Menon. 2018. Designing Online Deliberative Processes and Technologies for Citizen Input to Policy Making. In Proceedings at Digital Asia: Social Change, Engagement, and Voices, the 2018 Preconference of International Communication Association. Prague, Czech Republic.

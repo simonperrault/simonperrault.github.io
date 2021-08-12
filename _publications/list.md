@@ -2,17 +2,13 @@
 title: "List of Publications"
 collection: publications
 permalink: /publication/publications-list
-date: 2020-01-01
+date: 2021-01-01
 excerpt: 'List of papers'
 ---
 Please find a list of my publications.
 
 ## Thesis
 - **Simon T. Perrault**. 2013. Nouvelles Techniques d'Interaction pour les Dispositifs Miniaturisés de l'Informatique Mobile. PhD Thesis. 203 pages.
-
-## Submitted papers
-- Katherine Fennedy, Angad Srivastava, Sylvain Malacria, **Simon Perrault**. 2021. Towards a Unified and Efficient Command Selection Mechanism for Touch-Based Devices Using Soft Keyboard Hotkeys. Major revisions, submitted to ACM Transactions on Computer-Human Interaction.
-- Katherine Fennedy, Jeremy Hartmann, Quentin Roy, **Simon T. Perrault**, Daniel Vogel. 2021. OctoPocus in VR: Using a Dynamic Guide for 3D Mid-Air Gestures in Virtual Reality. Minor revisions, submitted to IEEE Transactions on Visualization and Computer Graphics.
 
 ## Refereed First Tier Conference Papers
 - Weiyu Zhang, Tian Yang, and **Simon Perrault**. 2021. Nudge for Reflection: More than Just a Channel to Political Knowledge. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '21). 10 pages. [ACM DL](https://doi.org/10.1145/3411764.3445274)
@@ -28,6 +24,8 @@ Please find a list of my publications.
 - Yves Guiard, Halla B. Olafsdottir, and **Simon T. Perrault**. 2011. Fitt's law as an explicit time/error trade-off. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 1619-1628. [ACM DL](http://doi.acm.org/10.1145/1978942.1979179)
 
 ## Journal Articles
+- Katherine Fennedy, Angad Srivastava, Sylvain Malacria, **Simon Perrault**. 2021. Towards a Unified and Efficient Command Selection Mechanism for Touch-Based Devices Using Soft Keyboard Hotkeys. Major revisions, To appear in ACM Transactions on Computer-Human Interaction. 30 pages.
+- Katherine Fennedy, Jeremy Hartmann, Quentin Roy, **Simon T. Perrault**, Daniel Vogel. 2021. OctoPocus in VR: Using a Dynamic Guide for 3D Mid-Air Gestures in Virtual Reality. Minor revisions, To appear in IEEE Transactions on Visualization and Computer Graphics. 16 pages. [Preprint](https://hal.archives-ouvertes.fr/hal-03317991)
 - Ian K. Duncan, Shi Tingsheng, **Simon T. Perrault**, Michael T. Gastner. 2021. Task-Based Effectiveness of Interactive Contiguous Area Cartograms. In IEEE Transactions on Visualization and Computer Graphics}, Vol 27, Issue 3, 17 pages. IF=4.558. [ACM DL](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.3041745)
 - Christopher Asplund, Takashi Obana, Parag Bhatnagar, Xun Quan Koh, **Simon Perrault**. 2020. It's All in the Timing: Principles of Transient Distraction Illustrated with Vibrotactile Tasks. In ACM Transactions on Computer-Human Interaction (ToCHI), Vol 27, Issue 3, 29 pages. IF=2.227. [arXiv](https://arxiv.org/pdf/2003.09100.pdf) [ACM DL](https://dl.acm.org/doi/abs/10.1145/3386358)
 - Zhu Kening, **Simon Perrault**, Taizhou Chen, Shaoyu Cai, Roshan L Peiris. 2019. A Sense of Ice and Fire: Exploring Thermal Feedback with Multiple Thermoelectric-cooling Elements on a Smart Ring. In International Journal of Human-Computer Studies, Volume 130, July 2019, 14 pages. IF=2.006. [ACM DL](https://doi.org/10.1016/j.ijhcs.2019.07.003)

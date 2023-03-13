@@ -2,7 +2,7 @@
 title: "List of Publications"
 collection: publications
 permalink: /publication/publications-list
-date: 2021-01-01
+date: 2023-01-01
 excerpt: 'List of papers'
 ---
 Please find a list of my publications.

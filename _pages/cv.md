@@ -46,7 +46,9 @@ redirect_from:
 
 ## Service and leadership
 * General Chair for the International Conference on Human-Computer Interaction with Mobile Devices and Services (Mobile HCI), 2020.
-* Associate Chair (Papers) for ACM Conference on Human Factors in Computing Systems (CHI) 2016, 2019-2021.
+* Late-Breaking Work Chair for the ACM Conference on Human Factors in Computing Systems (CHI), 2022.
+* Associate Chair (Papers) for the ACM Conference on Human Factors in Computing Systems (CHI) 2016, 2019-2023.
+* Associate Chair (Papers) for the ACM Conference on Computer-Supported Cooperative Work (CSCW) 2021-2023.
 * See full [CV](https://simonperrault.github.io/files/CV.pdf)
 
 ## Reviewing

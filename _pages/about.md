@@ -16,6 +16,8 @@ My research interest is in the area of Human Computer Interaction, and more spec
 
 By doing so, I aim to make users' lives easier and enhance the quality of communication between users through their devices. In concrete terms, Dr Perrault designs new interaction techniques and wearable devices and tries to get a better understanding of human behaviour in mobile contexts. His research lies within human computer interaction, experimental psychology and electronics.
 
-In more recent years, I also developed an interest in online discussion, and how people can exchange ideas online to voice their concerns and opinions to policy makers, or to other people.
+In more recent years, I also developed an interest in online deliberation and discussion, and how people can exchange ideas online to voice their concerns and opinions to policy makers, or to other people.
+
+Throughout the COVID 19 pandemy, my team also started investigating how AI agents might assist human users when performing fact checking as well as qualitative coding.
 
 I am currently the co-director of [SHUAI Lab](https://shuailab.wordpress.com) at SUTD.

@@ -25,7 +25,9 @@ Please find a list of my publications.
 - Yves Guiard, Halla B. Olafsdottir, and **Simon T. Perrault**. 2011. Fitt's law as an explicit time/error trade-off. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 1619-1628. [ACM DL](http://doi.acm.org/10.1145/1978942.1979179)
 
 ## Journal Articles
-- Ka-Yan Fung, Simon Tangi Perrault, Lik-Hang Lee, Kwong-Chiu Fung, Shenghui Song. 2022. Can Students with Dyslexia Learn Independently? A Seven-Week Study of Chinese Character Learning in an Informal Learning Environment. In IEEE Transactions on Learning Technologies, Early Access, 16 pages. IF=3.72. [IEEE](https://doi.org/10.1109/TLT.2022.3229016)
+- Kevin L. T. Fung, **Simon T. Perrault**, and Michael T. Gastner. 2023. Effectiveness of Area-to-Value Legends and
+Grid Lines in Contiguous Area Cartograms. In IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG), to appear. [IEEE](https://doi.org/10.1109/TVCG.2020.3041745)
+- Ka-Yan Fung, **Simon Tangi Perrault**, Lik-Hang Lee, Kwong-Chiu Fung, Shenghui Song. 2022. Can Students with Dyslexia Learn Independently? A Seven-Week Study of Chinese Character Learning in an Informal Learning Environment. In IEEE Transactions on Learning Technologies, Early Access, 16 pages. IF=3.72. [IEEE](https://doi.org/10.1109/TLT.2022.3229016)
 - Katherine Fennedy, Angad Srivastava, Sylvain Malacria, **Simon Perrault**. 2022. Towards a Unified and Efficient Command Selection Mechanism for Touch-Based Devices Using Soft Keyboard Hotkeys. Major revisions, In ACM Transactions on Computer-Human Interaction, Volume 29, Issue 1, 39 pages. [Preprint](https://hal.archives-ouvertes.fr/hal-03319260)
 - Katherine Fennedy, Jeremy Hartmann, Quentin Roy, **Simon T. Perrault**, Daniel Vogel. 2021. OctoPocus in VR: Using a Dynamic Guide for 3D Mid-Air Gestures in Virtual Reality. Minor revisions, In IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG), Volume 27, Issue 4, 16 pages. [Preprint](https://hal.archives-ouvertes.fr/hal-03317991)
 - Ian K. Duncan, Shi Tingsheng, **Simon T. Perrault**, Michael T. Gastner. 2021. Task-Based Effectiveness of Interactive Contiguous Area Cartograms. In IEEE Transactions on Visualization and Computer Graphics}, Vol 27, Issue 3, 17 pages. IF=4.558. [ACM DL](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.3041745)
@@ -53,6 +55,10 @@ Please find a list of my publications.
 - **Simon T. Perrault**, and Eric Lecolinet. 2013. Using Low-power Sensors to enhance Interaction on Wristwatches and Bracelets. In Proceedings of Fifth International Conference on Mobile Computing, Applications and Services (Mobicase '13). Springer-Verlag, Berlin, Heidelberg, 261-264.
 - Halla B. Olafsdottir, Yves Guiard, Olivier Rioul, and **Simon T. Perrault**. 2012. A new test of throughput invariance in Fitts' law: role of the intercept and of Jensen's inequality. In Proceedings of the 26th Annual BCS Interaction Specialist Group Conference on People and Computers (BCS-HCI '12). British Computer Society, Swinton, UK, UK, 119-126. _Best paper award_.
 
+## Edited Proceedings
+- Susanne Boll, and **Simon T. Perrault**. 2020. MobileHCI '20: 22nd International Conference on Human-Computer Interaction with Mobile Devices and Services, Oldenburg, Germany, October 5-9, 2020. ACM 2020, ISBN 978-1-4503-7516-0.
+- Susanne Boll, and **Simon T. Perrault**. 2020. MobileHCI '20: 22nd International Conference on Human-Computer Interaction with Mobile Devices and Services: Expanding the Horizon of Mobile Interaction, Extented Abstracts, Oldenburg, Germany, October 5-9, 2020. ACM 2020, ISBN 978-1-4503-8052-2.
+
 ## Refereed National Conference Papers
 - **Simon T. Perrault**, Gilles Bailly, Yves Guiard, and Eric Lecolinet. 2011. Promesses et Contraintes de la Joaillerie Numérique Interactive: un Aperçu de l'État de l'Art. In Proceedings of 23rd French Speaking Conference on Human-Computer Interaction (IHM '11). ACM, New York, NY, USA, Article 14, 4 pages. [Paper](http://doi.acm.org/10.1145/2044354.2044372)
 
@@ -60,7 +66,7 @@ Please find a list of my publications.
 Non-Computer Science/HCI Papers
 This category lists papers published in non-CS or non-HCI venues, including: Communication, Geography, Teaching or Architecture.
 
-- Norman Tiong Seng Lee, Oka Kurniawan, Kenny Tsu Wei Choo, Matthieu De Mari, and Simon Perrault. 2022. Laboratory Activities for an Introductory Programming Course. In Proceedings of the 2022 IEEE International Conference on Engineering, Technology & Education (TALE). To appear.
+- Norman Tiong Seng Lee, Oka Kurniawan, Kenny Tsu Wei Choo, Matthieu De Mari, and **Simon Perrault**. 2022. Laboratory Activities for an Introductory Programming Course. In Proceedings of the 2022 IEEE International Conference on Engineering, Technology & Education (TALE). To appear.
 - Cem Ataman, Pieter Hertogs, Bige Tuncer, and **Simon Perrault**. 2022. Multi-Criteria Decision Making in Digital Participation. In Proceedings of the 40th Education and research in Computer Aided Architectural Design in Europe (eCAADe) Conference (eCAADE ’22), pp 401-410. [PDF](http://papers.cumincad.org/data/works/att/ecaade2022_85.pdf)
 - Cem Ataman, Bige Tuncer, and **Simon Perrault**. 2022. Asynchronous Digital Participation in Urban Design Processes: Qualitative Data Exploration and Analysis With Natural Language Processing. In Proceedings of the International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA ’22), pp. 383-392. [PDF](http://papers.cumincad.org/cgi-bin/works/Show?caadria2022_139)
 - Michael T. Gastner, **Simon T. Perrault**, and Chen-Chieh Feng. 2021. Balancing Shape Distortions and Contiguity in Cartograms. in Abstracts of the International Cartography Association (ICA). [DOI](https://doi.org/10.5194/ica-abs-3-87-2021)

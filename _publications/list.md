@@ -25,6 +25,9 @@ Please find a list of my publications.
 - Yves Guiard, Halla B. Olafsdottir, and **Simon T. Perrault**. 2011. Fitt's law as an explicit time/error trade-off. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 1619-1628. [ACM DL](http://doi.acm.org/10.1145/1978942.1979179)
 
 ## Journal Articles
+- Jie Gao, Kenny Tsu Wei Choo, Junming Cao, Roy Ka Wei Lee, **Simon Perrault**. 2023. CoAIcoder:
+Examining the Effectiveness of AI-assisted Collaborative Qualitative Analysis. In ACM Transactions
+on Computer-Human Interaction. To appear. [arXiv](https://arxiv.org/pdf/2304.05560.pdf)
 - Kevin L. T. Fung, **Simon T. Perrault**, and Michael T. Gastner. 2023. Effectiveness of Area-to-Value Legends and
 Grid Lines in Contiguous Area Cartograms. In IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG), to appear. [IEEE](https://doi.org/10.1109/TVCG.2020.3041745)
 - Ka-Yan Fung, **Simon Tangi Perrault**, Lik-Hang Lee, Kwong-Chiu Fung, Shenghui Song. 2022. Can Students with Dyslexia Learn Independently? A Seven-Week Study of Chinese Character Learning in an Informal Learning Environment. In IEEE Transactions on Learning Technologies, Early Access, 16 pages. IF=3.72. [IEEE](https://doi.org/10.1109/TLT.2022.3229016)
@@ -62,10 +65,13 @@ Grid Lines in Contiguous Area Cartograms. In IEEE Transactions on Visualization 
 ## Refereed National Conference Papers
 - **Simon T. Perrault**, Gilles Bailly, Yves Guiard, and Eric Lecolinet. 2011. Promesses et Contraintes de la Joaillerie Numérique Interactive: un Aperçu de l'État de l'Art. In Proceedings of 23rd French Speaking Conference on Human-Computer Interaction (IHM '11). ACM, New York, NY, USA, Article 14, 4 pages. [Paper](http://doi.acm.org/10.1145/2044354.2044372)
 
+## Book Chapters
+- Gionnieve Lim, and **Simon T. Perrault**. 2023. Fact Checking Chatbot: A Misinformation Intervention for Instant Messaging Apps and an Analysis of Trust in the Fact Checkers. In: Soon, C. (eds) Mobile Communication and Online Falsehoods in Asia. Mobile Communication in Asia: Local Insights, Global Implications. Springer, Dordrecht. [Paper](https://doi.org/10.1007/978-94-024-2225-2_11)
+
 ## Non HCI Venues
 Non-Computer Science/HCI Papers
 This category lists papers published in non-CS or non-HCI venues, including: Communication, Geography, Teaching or Architecture.
-
+- Cem Ataman, Bige Tuncer, and **Simon Perrault**. 2023. Textual Big Data Structures, Processing, and Analysis: Topic Modelling for Large-Scale Digital Participation Data. In INTERCONNECTIONS: Co-computing beyond boundaries - Proceedings of the 20th Conference on Computer-Aided Architectural Design (CAAD) Futures, Delft, the Netherlands.
 - Norman Tiong Seng Lee, Oka Kurniawan, Kenny Tsu Wei Choo, Matthieu De Mari, and **Simon Perrault**. 2022. Laboratory Activities for an Introductory Programming Course. In Proceedings of the 2022 IEEE International Conference on Engineering, Technology & Education (TALE). To appear.
 - Cem Ataman, Pieter Hertogs, Bige Tuncer, and **Simon Perrault**. 2022. Multi-Criteria Decision Making in Digital Participation. In Proceedings of the 40th Education and research in Computer Aided Architectural Design in Europe (eCAADe) Conference (eCAADE ’22), pp 401-410. [PDF](http://papers.cumincad.org/data/works/att/ecaade2022_85.pdf)
 - Cem Ataman, Bige Tuncer, and **Simon Perrault**. 2022. Asynchronous Digital Participation in Urban Design Processes: Qualitative Data Exploration and Analysis With Natural Language Processing. In Proceedings of the International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA ’22), pp. 383-392. [PDF](http://papers.cumincad.org/cgi-bin/works/Show?caadria2022_139)

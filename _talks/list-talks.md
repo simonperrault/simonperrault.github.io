@@ -4,12 +4,16 @@ collection: talks
 type: "Talk"
 permalink: /talks/list-talks
 venue: ""
-date: 2012-06-01
+date: 2023-08-30
 location: "Worldwide"
 ---
 
 In the last few years, I gave talks across different countries, including Singapore, Indonesia, China, Hong Kong, South Korea, Thailand, France and the United Kingdom. My complete list of invited talk (or guest lectures) can be found below:
 
+- June 2023: "HCI in Singapore: A Summary", Invited Keynote, SIGCHI Bangkok HCI Retreat, Bangkok, Thailand.
+- June 2023: "The Role(s) of AI as an Agent Between Users", Research Presentation, Korean Advanced Institute of Science and Technology (KAIST), Korea.
+- October 2022: "Making Sense of Data in Civic Tech Initiatives". Research Presentation, Université Grenoble Alpes, France.
+- October 2022: "Improving Qualitative Coding with AI and NLP". Research Presentation, Université Lyon 1, France.
 - January 2020: "Human vs. Computer Systems: Challenges in HCI Research". Research Presentation, King Mongkut's University Of Technology North Bangkok, Thailand.
 - May 2019: "Interaction Design for Mobile & Wearable Computing". Research Presentation, Zhejiang University of Technology, China.
 - December 2018: "Online Deliberation and Other Wearable Tales". Research Presentation, Korean Advanced Institute of Science and Technology (KAIST), South Korea.

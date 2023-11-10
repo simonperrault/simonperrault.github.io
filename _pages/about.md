@@ -18,6 +18,4 @@ By doing so, I aim to make users' lives easier and enhance the quality of commun
 
 In more recent years, I also developed an interest in online deliberation and discussion, and how people can exchange ideas online to voice their concerns and opinions to policy makers, or to other people.
 
-Throughout the COVID 19 pandemy, my team also started investigating how AI agents might assist human users when performing fact checking as well as qualitative coding.
-
-I am currently the co-director of [SHUAI Lab](https://shuailab.wordpress.com) at SUTD.
+Throughout the COVID 19 pandemy, my team also started investigating how AI agents and LLMs might assist human users when performing fact checking as well as qualitative coding.

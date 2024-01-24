@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/list-talks
 venue: ""
-date: 2023-08-30
+date: 2024-01-01
 location: "Worldwide"
 ---
 

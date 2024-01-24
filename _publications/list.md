@@ -2,7 +2,7 @@
 title: "List of Publications"
 collection: publications
 permalink: /publication/publications-list
-date: 2023-01-01
+date: 2024-01-01
 excerpt: 'List of papers'
 ---
 Please find a list of my publications.
@@ -11,6 +11,8 @@ Please find a list of my publications.
 - **Simon T. Perrault**. 2013. Nouvelles Techniques d'Interaction pour les Dispositifs Miniaturisés de l'Informatique Mobile. PhD Thesis. 203 pages.
 
 ## Refereed First Tier Conference Papers
+- Jie Gao, Yuchen Guo, Gionnieve Lim, Tianqin Zhang, Zheng Zhang, Toby Jia-Jun Li, **Simon Tangi Perrault**. 2024. CollabCoder: A Lower-barrier, Rigorous Workflow for Inductive Collaborative Qualitative Analysis with Large Language Models. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’24). To appear. [ArXiv](https://arxiv.org/abs/2304.07366)
+- Shun Yi Yeo, Gionnieve Lim, Jie Gao, Weiyu Zhang, **Simon Tangi Perrault**. 2024. Help Me Reflect: Leveraging Self-Reflection Interface Nudges to Enhance Deliberativeness on Online Deliberation Platforms. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI’24). To appear. [ArXiv](https://arxiv.org/abs/2401.10820)
 - Camellia Zakaria, Pin Sym Foong, Chang Siang Lim, Pavithren V. S. Pakianathan, Gerald Huat Choon Koh, **Simon Perrault**. 2022. Does Mode of Digital Contact Tracing Affect User Willingness to Share Information? A Quantitative Study . In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’22). ACM, New York, NY, USA, Article 77, 1–18. [ACM DL](https://doi.org/10.1145/3491102.3517595)
 - Weiyu Zhang, Tian Yang, and **Simon Perrault**. 2021. Nudge for Reflection: More than Just a Channel to Political Knowledge. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '21). 10 pages. [ACM DL](https://doi.org/10.1145/3411764.3445274)
 - Sanju Menon, Weiyu Zhang, and **Simon Perrault**. 2020. Nudge for Deliberativeness: How Interface Features Influence Online Discourses. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '20). 13 pages. [ACM DL](https://doi.org/10.1145/3313831.3376646)
@@ -25,8 +27,7 @@ Please find a list of my publications.
 - Yves Guiard, Halla B. Olafsdottir, and **Simon T. Perrault**. 2011. Fitt's law as an explicit time/error trade-off. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 1619-1628. [ACM DL](http://doi.acm.org/10.1145/1978942.1979179)
 
 ## Journal Articles
--  Ngoc Thi Nguyen, Maria Zubair, Agustin Zuniga, Sasu Tarkoma, Pan Hui, Hyowon Lee, **Simon Tangi
-Perrault**, Mostafa H. Ammar, Huber Flores, Petteri Nurmi. 2023. The Price is Right? The Economic Value of Sharing Sensors. In IEEE Transactions on Computational Social Systems. To appear. [Preprint](https://researchportal.helsinki.fi/en/publications/the-price-is-right-the-economic-value-of-sharing-sens3)
+-  Ngoc Thi Nguyen, Maria Zubair, Agustin Zuniga, Sasu Tarkoma, Pan Hui, Hyowon Lee, **Simon Tangi Perrault**, Mostafa H. Ammar, Huber Flores, Petteri Nurmi. 2023. The Price is Right? The Economic Value of Sharing Sensors. In IEEE Transactions on Computational Social Systems. To appear. [Preprint](https://researchportal.helsinki.fi/en/publications/the-price-is-right-the-economic-value-of-sharing-sens3)
 - Jie Gao, Kenny Tsu Wei Choo, Junming Cao, Roy Ka Wei Lee, **Simon Perrault**. 2023. CoAIcoder: Examining the Effectiveness of AI-assisted Collaborative Qualitative Analysis. In ACM Transactions on Computer-Human Interaction. To appear. [arXiv](https://arxiv.org/pdf/2304.05560.pdf)
 - Kevin L. T. Fung, **Simon T. Perrault**, and Michael T. Gastner. 2023. Effectiveness of Area-to-Value Legends and Grid Lines in Contiguous Area Cartograms. In IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG), to appear. [IEEE](https://doi.org/10.1109/TVCG.2020.3041745)
 - Ka-Yan Fung, **Simon Tangi Perrault**, Lik-Hang Lee, Kwong-Chiu Fung, Shenghui Song. 2022. Can Students with Dyslexia Learn Independently? A Seven-Week Study of Chinese Character Learning in an Informal Learning Environment. In IEEE Transactions on Learning Technologies, Early Access, 16 pages. IF=3.72. [IEEE](https://doi.org/10.1109/TLT.2022.3229016)

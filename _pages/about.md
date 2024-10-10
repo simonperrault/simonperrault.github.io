@@ -17,10 +17,12 @@ I am currently an **Assistant Professor at SUTD** (Singapore) since January 2019
 
 I received my PhD in Computer Science from **Telecom ParisTech (France)** in April 2013, and joined the National University of Singapore (NUS) in December 2013 as a post-doctoral researcher.
 
-My research interest is in the area of Human Computer Interaction, and more specifically on mobile and wearable interaction. Because users carry their mobile and wearable devices at nearly any given time in a day, improving interaction between users and devices is a hard yet needed task.
+My research interest is in the area of Human Computer Interaction and Human AI Collaboration. I am currently interested in understanding how users interact with online content, such as social media. More specifically, I focus on helping users identify potentially harmful content, such as misinformation, while also supporting them when they write their own content through self-reflection.
 
-By doing so, I aim to make users' lives easier and enhance the quality of communication between users through their devices. In concrete terms, Dr Perrault designs new interaction techniques and wearable devices and tries to get a better understanding of human behaviour in mobile contexts. His research lies within human computer interaction, experimental psychology and electronics.
+To do so, I develop systems that leverage Natural Language Processing, Large Language Models and Large Multimodal Models and Interface Design. A crucial aspect of the work is to provide assistance without forcing it or letting the AI take over for the user.
 
-In more recent years, I also developed an interest in online deliberation and discussion, and how people can exchange ideas online to voice their concerns and opinions to policy makers, or to other people.
+I am also interested in Information Visualization for Spatial Data (cartograms) and AI-powered systems to support Collaborative Qualitative Analysis.
 
-Throughout the COVID 19 pandemy, my team also started investigating how AI agents and LLMs might assist human users when performing fact checking as well as qualitative coding.
+In the past, I also worked on designing new interaction techniques for Mobile and Wearable computers.
+
+As a researcher, I have served (or currently serve) as an Associate Chair for most major SIGCHI Conferences (CHI, CSCW) and have been chairing for many other venues (SIGGRAPH Asia, Mobile HCI, ISS, etc...).

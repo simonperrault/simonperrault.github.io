@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## News
+- October 2024: One paper accepted in the Journal of Urban Technology!
 - August 2024: One paper accepted at OzCHI 2024!
 - May 2024: I will be serving as AC for CHI 2025.
 - April 2024: I became Visiting Academician at the Changi General Hospital (CGH), Singapore.

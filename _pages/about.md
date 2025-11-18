@@ -10,8 +10,8 @@ redirect_from:
 
 ## News
 - November 2025: Started as a full professor in the [DIVA team](https://diva.telecom-paristech.fr/) at [Télécom Paris](https://www.telecom-paris.fr/).
-- April 2025: Attended CHI 2025 in Yokohama
-- January 2025: One paper accepted in Cities
+- April 2025: Attended CHI 2025 in Yokohama.
+- January 2025: One paper accepted in Cities.
 - October 2024: One paper accepted in the Journal of Urban Technology!
 - August 2024: One paper accepted at OzCHI 2024!
 - May 2024: I will be serving as AC for CHI 2025.

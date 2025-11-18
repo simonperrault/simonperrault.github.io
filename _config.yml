@@ -83,11 +83,11 @@ author:
   name             : "Simon Perrault"
   avatar           : "profile.jpg"
   bio              : "HCI Researcher focusing on wearable computing and civic tech"
-  location         : "Singapore"
-  employer         : "https://istd.sutd.edu.sg/"
+  location         : "Palaiseau, France"
+  employer         : "https://www.telecom-paris.fr/"
   pubmed           :
   googlescholar    : "https://scholar.google.com.sg/citations?user=pfKzDx8AAAAJ&hl=en"
-  email            : "simon underscore perrault at sutd dot edu.sg"
+  email            : "simon dot perrault at telecom dash paris dot fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## News
+- January 2026: We got one full paper and one panel accepted at CHI 2026! See you in Barcelona.
 - November 2025: Started as a full professor in the [DIVA team](https://diva.telecom-paristech.fr/) at [Télécom Paris](https://www.telecom-paris.fr/).
 - April 2025: Attended CHI 2025 in Yokohama.
 - January 2025: One paper accepted in Cities.
@@ -20,7 +21,7 @@ redirect_from:
 
 ## About
 
-I am currently a **full professor** at Télécom Paris, Institut Polytechnique in France since November 2025. Before that, I was an assistant professor at SUTD (Singapore) before January 2019 and November 20205, as well as a visiting professor at **KAIST** (Korea) in 2018 and an assistant professor at **Yale-NUS college** (Singapore) between 2015 and 2018.
+I am currently a **full professor** at Télécom Paris, Institut Polytechnique in France since November 2025. Before that, I was an assistant professor at SUTD (Singapore) before January 2019 and November 2025, as well as a visiting professor at **KAIST** (Korea) in 2018 and an assistant professor at **Yale-NUS college** (Singapore) between 2015 and 2018.
 
 I received my PhD in Computer Science from **Telecom ParisTech (France)** in April 2013, and joined the National University of Singapore (NUS) in December 2013 as a post-doctoral researcher.
 

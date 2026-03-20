@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## News
+- March 2026: Two new papers accepted: 1 at CSCW 2026 and 1 at DIS 2026!
 - January 2026: We got one full paper and one panel accepted at CHI 2026! See you in Barcelona.
 - November 2025: Started as a full professor in the [DIVA team](https://diva.telecom-paristech.fr/) at [Télécom Paris](https://www.telecom-paris.fr/).
 - April 2025: Attended CHI 2025 in Yokohama.

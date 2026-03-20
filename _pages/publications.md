@@ -13,6 +13,9 @@ author_profile: true
 - **Simon T. Perrault**. 2013. Nouvelles Techniques d'Interaction pour les Dispositifs Miniaturisés de l'Informatique Mobile. PhD Thesis. 203 pages.
 
 ## Refereed First Tier Conference Papers
+- Shunyi Yeo, Tianyi Zhang, Scott Batteman, Gary Hsieh, Young-Ho Kim, **Simon Perrault**, Jiannan Li, Anthony Tang. 2026. Group Conversational Agents. To appear at DIS 2026.
+- Gionnieve Lim, Bryan Cheng Zhengyu Tan, Kellie Yu Hui Sim, Weiyan Shi, Ming Hui Chew, Ming Shan Hee, Roy Ka-Wei Lee, **Simon Perrault**, Kenny Choo. 2026. Sword and Shield: Uses and Strategies of LLMs in Navigating Disinformation. To appear at CSCW 2026.
+- Zhuoqun Jiang, ShunYi Yeo, Dorien Herremas, **Simon Perrault**. 2026. Scaffolded Vulnerability: Chatbot-Mediated Reciprocal Self-Disclosure and Need-Supportive Interaction in Couples. To appear at CHI 2026. [ArXiV](https://arxiv.org/pdf/2602.07508)
 - Zhuoqun Jiang, ShunYi Yeo, Donovan Seow, **Simon Perrault**. 2025. Remini: Leveraging Chatbot-Mediated Mutual Reminiscence for Promoting Positive Affect and Feeling of Connectedness among Loved Ones. In Proc. ACM Hum.-Comput. Interact. 9, 3, Article CSCW (July 2025). [ACM DL](https://doi.org/10.1145/3757650)
 - ShunYi Yeo, Zhuoqun Jiang, Anthony Tang, **Simon Perrault**. 2025. Enhancing Deliberativeness: Evaluating the Impact of Multimodal Reflection Nudges. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). 26 pages. [ACM DL](https://doi.org/10.1145/3706598.3714189)
 - Jie Gao, Yuchen Guo, Gionnieve Lim, Tianqin Zhang, Zheng Zhang, Toby Jia-Jun Li, **Simon Tangi Perrault**. 2024. CollabCoder: A Lower-barrier, Rigorous Workflow for Inductive Collaborative Qualitative Analysis with Large Language Models. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’24). [ArXiv](https://arxiv.org/abs/2304.07366)
@@ -31,6 +34,7 @@ author_profile: true
 - Yves Guiard, Halla B. Olafsdottir, and **Simon T. Perrault**. 2011. Fitt's law as an explicit time/error trade-off. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 1619-1628. [ACM DL](http://doi.acm.org/10.1145/1978942.1979179)
 
 ## Journal Articles
+- Andrew Z. H. Yee, Bernice Kwok, Janelle Ng, Guan Peng Loy, Li Yin Ng, Jeremy R. H. Sng, **Simon Perrault**, Kwan Hui Lim, Subburaj Karupppasamy. 2025. Why Older Adults Integrate Digital Health Technology Into Their Everyday Lives: The Role of Basic Psychological Needs, Human Behavior and Emerging Technologies, 2025, 9711661, 13 pages, 2025. [DL](https://doi.org/10.1155/hbe2/9711661)
 - Gionnieve Lim, Juho Kim, **Simon Perrault**. 2025. Iffy-Or-Not: Critically Evaluating Potential Misinformation With Fallacy Detection and Socratic Questioning Using LLMs. ACM Trans. Comput.-Hum. Interact. Just Accepted (October 2025). [ACM DL](https://doi.org/10.1145/3771935)
 -  Cem Ataman, Pieter Herthogs, Bige Tunçer, **Simon Perrault**. 2025. From insight to action: An integrated assessment framework for digital citizen participation in data-centric urban practices. In Cities, Vol. 156, 2025, [Paper](https://doi.org/10.1016/j.cities.2024.105545)
 - Cem Ataman, Binge Tuncer, **Simon Perrault**. 2024. Fostering Inclusive Urban Design and Planning: Enhanced Trust and Reliability through Descriptive Instructions in Digital Citizen Participation.  In \textit{Journal of Urban Technology}, 1–24. [Paper](https://doi.org/10.1080/10630732.2024.2421729) 
